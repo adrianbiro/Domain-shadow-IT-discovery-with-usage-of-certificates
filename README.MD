@@ -1,6 +1,6 @@
 # Domain shadow IT discovery with usage of certificates
 
-Shadow IT discovery, not all corporate sites with domain maines are govern properly and track in CMDB, this is a method how to discover at least some of them.
+Shadow IT discovery, not all sites with domain names are govern properly and track in CMDB, this is a method how to discover at least some of them.
 
 ## Links
 
